@@ -1,1 +1,2 @@
-const a = 12322;
+const a = 12;
+const b = 3;
